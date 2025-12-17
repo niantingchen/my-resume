@@ -297,7 +297,7 @@ div.inside{
 
 .c1,
 .c2 {
-    height: 700px;
+    
     width: 650px;
 
     display: block;
@@ -1041,3 +1041,4 @@ footer{
     font-size: 20px;
     color: aliceblue;    
 }
+
